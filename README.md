@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Header Background: Tmavý, technický gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1F2228&height=150&section=header&text=&fontSize=40&animation=fadeIn" width="100%"/>
 </div>
 
@@ -13,7 +12,7 @@
 
 <br/>
 
-<!-- Status Bar: bez tvrdenia o prijatí/relokácii -->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/sajko-slovensko-330b2133b">
      <img src="https://img.shields.io/badge/Focus-Low--Level_Systems_&_Security-1F2228?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -25,9 +24,9 @@
 
 <br/>
 
-<!-- Jemná, pravdivá zmienka o DK bez implied acceptance -->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Goal-Preparing_for_Danish_University_Applications_(2026)-b45309?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Goal-Preparing_for_University_Applications_(2026)-b45309?style=for-the-badge&logo=academia&logoColor=white"/>
 </div>
 
 <br/>

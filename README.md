@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sajko-slovensko-330b2133b">
+  <a href="https://www.linkedin.com/in/tobias-kocúr-3b18b63b5">
      <img src="https://img.shields.io/badge/Focus-Low--Level_Systems_&_Security-1F2228?style=for-the-badge&logo=linux&logoColor=white"/>
   </a>
   <a href="mailto:crybybusiness@gmail.com">

@@ -90,7 +90,7 @@ A digital detox tool that interfaces with iOS devices over USB to enforce restri
 
 ---
 
-### <img src="https://img.shields.io/badge/-Sajko.sk-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> &nbsp;[Sajko.sk](https://sajko.sk) &nbsp;|&nbsp; Session Replay Platform
+### <img src="sajko.png" width="56" height="56"/> &nbsp;[Sajko.sk](https://sajko.sk) &nbsp;|&nbsp; Session Replay Platform
 Enterprise-grade session replay & analytics platform with a real-time event pipeline.
 - **Pipeline:** Ingest → process → store → replay user sessions.
 - **Stack:** `TypeScript` &nbsp;`Next.js` &nbsp;`PostgreSQL` &nbsp;`WASM`

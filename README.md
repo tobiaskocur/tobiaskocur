@@ -1,6 +1,6 @@
 # Tobias Kocúr
 
-Most of my day is telling AI agents to try again and telling people the test needs two more weeks.
+My job is mostly asking an AI agent to do it again, but nicer.
 
 CRO specialist, doing delivery at [UNIT618](https://unit618.com). On the side I work on [Noily](https://noily.eu) and on automations that help people use AI better. I write at [tobiaskocur.com](https://tobiaskocur.com/blog/).
 

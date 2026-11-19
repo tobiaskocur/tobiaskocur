@@ -1,5 +1,7 @@
 # Tobias Kocúr
 
+<img src="assets/typing.svg" alt="Moving faster than the industry. Catch up if you can." width="600" height="36">
+
 I like fast feedback loops and boring automations.
 
 CRO specialist, doing delivery at [UNIT618](https://unit618.com). On the side I work on [Noily](https://noily.eu), trying to help people in Slovakia understand AI better, and on automations that make AI more useful. I write at [tobiaskocur.com](https://tobiaskocur.com/blog/).

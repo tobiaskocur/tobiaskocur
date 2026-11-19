@@ -1,4 +1,4 @@
-name: Update recent posts
+name: Update README blocks
 
 on:
   schedule:
@@ -19,8 +19,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - name: Refresh block from the Noily feed
-        run: python3 scripts/update_recent.py
+      - name: Refresh blocks from public sources
+        run: python3 scripts/update_readme.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Commit if changed
         run: |
           if git diff --quiet -- README.md; then
@@ -30,5 +32,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update recent Noily posts"
+          git commit -m "Update README blocks"
           git push

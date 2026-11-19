@@ -1,21 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="36" viewBox="0 0 600 36" role="img" aria-label="Moving faster than the industry. Catch up if you can.">
   <title>Moving faster than the industry. Catch up if you can.</title>
   <style>
-    text, .caret { fill: #1f2328; }
-    @media (prefers-color-scheme: dark) { text, .caret { fill: #e6edf3; } }
-    text { font: 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
-    .type { animation: type 3.2s steps(53, end) 0.4s both; }
-    .move { animation: move 3.2s steps(53, end) 0.4s both; }
+    .c { fill: #1f2328; font: 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; animation: show 0.01s step-end both; }
+    .caret { fill: #1f2328; animation: move 3.18s steps(53, start) 0.4s both; }
     .blink { animation: blink 1s step-end infinite; }
-    @keyframes type { from { width: 0; } to { width: 600px; } }
-    @keyframes move { from { transform: translateX(0); } to { transform: translateX(572px); } }
+    @media (prefers-color-scheme: dark) { .c, .caret { fill: #e6edf3; } }
+    @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes move { from { transform: translateX(0); } to { transform: translateX(572.4px); } }
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .type, .move { animation: none; }
-      .blink { animation: none; }
+      .c, .blink { animation: none; }
+      .caret { animation: none; transform: translateX(572.4px); }
     }
   </style>
-  <clipPath id="c"><rect class="type" x="0" y="0" width="600" height="36"/></clipPath>
-  <text x="0" y="24" textLength="572" lengthAdjust="spacing" clip-path="url(#c)">Moving faster than the industry. Catch up if you can.</text>
-  <g class="move"><rect class="caret blink" x="2" y="8" width="2" height="22"/></g>
+  <text class="c" x="0.0" y="24" style="animation-delay:0.40s">M</text>
+  <text class="c" x="10.8" y="24" style="animation-delay:0.46s">o</text>
+  <text class="c" x="21.6" y="24" style="animation-delay:0.52s">v</text>
+  <text class="c" x="32.4" y="24" style="animation-delay:0.58s">i</text>
+  <text class="c" x="43.2" y="24" style="animation-delay:0.64s">n</text>
+  <text class="c" x="54.0" y="24" style="animation-delay:0.70s">g</text>
+  <text class="c" x="75.6" y="24" style="animation-delay:0.82s">f</text>
+  <text class="c" x="86.4" y="24" style="animation-delay:0.88s">a</text>
+  <text class="c" x="97.2" y="24" style="animation-delay:0.94s">s</text>
+  <text class="c" x="108.0" y="24" style="animation-delay:1.00s">t</text>
+  <text class="c" x="118.8" y="24" style="animation-delay:1.06s">e</text>
+  <text class="c" x="129.6" y="24" style="animation-delay:1.12s">r</text>
+  <text class="c" x="151.2" y="24" style="animation-delay:1.24s">t</text>
+  <text class="c" x="162.0" y="24" style="animation-delay:1.30s">h</text>
+  <text class="c" x="172.8" y="24" style="animation-delay:1.36s">a</text>
+  <text class="c" x="183.6" y="24" style="animation-delay:1.42s">n</text>
+  <text class="c" x="205.2" y="24" style="animation-delay:1.54s">t</text>
+  <text class="c" x="216.0" y="24" style="animation-delay:1.60s">h</text>
+  <text class="c" x="226.8" y="24" style="animation-delay:1.66s">e</text>
+  <text class="c" x="248.4" y="24" style="animation-delay:1.78s">i</text>
+  <text class="c" x="259.2" y="24" style="animation-delay:1.84s">n</text>
+  <text class="c" x="270.0" y="24" style="animation-delay:1.90s">d</text>
+  <text class="c" x="280.8" y="24" style="animation-delay:1.96s">u</text>
+  <text class="c" x="291.6" y="24" style="animation-delay:2.02s">s</text>
+  <text class="c" x="302.4" y="24" style="animation-delay:2.08s">t</text>
+  <text class="c" x="313.2" y="24" style="animation-delay:2.14s">r</text>
+  <text class="c" x="324.0" y="24" style="animation-delay:2.20s">y</text>
+  <text class="c" x="334.8" y="24" style="animation-delay:2.26s">.</text>
+  <text class="c" x="356.4" y="24" style="animation-delay:2.38s">C</text>
+  <text class="c" x="367.2" y="24" style="animation-delay:2.44s">a</text>
+  <text class="c" x="378.0" y="24" style="animation-delay:2.50s">t</text>
+  <text class="c" x="388.8" y="24" style="animation-delay:2.56s">c</text>
+  <text class="c" x="399.6" y="24" style="animation-delay:2.62s">h</text>
+  <text class="c" x="421.2" y="24" style="animation-delay:2.74s">u</text>
+  <text class="c" x="432.0" y="24" style="animation-delay:2.80s">p</text>
+  <text class="c" x="453.6" y="24" style="animation-delay:2.92s">i</text>
+  <text class="c" x="464.4" y="24" style="animation-delay:2.98s">f</text>
+  <text class="c" x="486.0" y="24" style="animation-delay:3.10s">y</text>
+  <text class="c" x="496.8" y="24" style="animation-delay:3.16s">o</text>
+  <text class="c" x="507.6" y="24" style="animation-delay:3.22s">u</text>
+  <text class="c" x="529.2" y="24" style="animation-delay:3.34s">c</text>
+  <text class="c" x="540.0" y="24" style="animation-delay:3.40s">a</text>
+  <text class="c" x="550.8" y="24" style="animation-delay:3.46s">n</text>
+  <text class="c" x="561.6" y="24" style="animation-delay:3.52s">.</text>
+  <g class="caret"><rect class="blink" x="2" y="8" width="2" height="22"/></g>
 </svg>

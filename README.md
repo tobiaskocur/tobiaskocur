@@ -6,7 +6,7 @@ CRO specialist, doing delivery at [UNIT618](https://unit618.com). On the side I 
 
 <table><tr><td valign="top" width="40%">
 
-### Recent releases
+### Open source
 <!-- recent_releases starts -->
 [pi-learning](https://github.com/tobiaskocur/pi-learning) - 2026-10-05<br>Prediction-first AI tutor profile for Pi and BB: probes, prerequisite maps, verified visuals, and transfer checks.
 

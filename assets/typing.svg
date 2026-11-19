@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="36" viewBox="0 0 600 36" role="img" aria-label="Moving faster than the industry. Catch up if you can.">
+  <title>Moving faster than the industry. Catch up if you can.</title>
+  <style>
+    text, .caret { fill: #1f2328; }
+    @media (prefers-color-scheme: dark) { text, .caret { fill: #e6edf3; } }
+    text { font: 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .type { animation: type 3.2s steps(53, end) 0.4s both; }
+    .move { animation: move 3.2s steps(53, end) 0.4s both; }
+    .blink { animation: blink 1s step-end infinite; }
+    @keyframes type { from { width: 0; } to { width: 600px; } }
+    @keyframes move { from { transform: translateX(0); } to { transform: translateX(572px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .type, .move { animation: none; }
+      .blink { animation: none; }
+    }
+  </style>
+  <clipPath id="c"><rect class="type" x="0" y="0" width="600" height="36"/></clipPath>
+  <text x="0" y="24" textLength="572" lengthAdjust="spacing" clip-path="url(#c)">Moving faster than the industry. Catch up if you can.</text>
+  <g class="move"><rect class="caret blink" x="2" y="8" width="2" height="22"/></g>
+</svg>

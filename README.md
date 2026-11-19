@@ -1,12 +1,9 @@
 # Tobias Kocúr
 
-Slovakia. System security, kernel development and reverse engineering.
+CRO specialist. I do delivery at [UNIT618](https://unit618.com).
 
-- [aegis](https://github.com/tobiaskocur/aegis): kernel-mode process protection driver (C, WDK)
-- [mindly_dock](https://github.com/tobiaskocur/mindly_dock): iOS "dumb phone" tool in C++ using libimobiledevice
-- [capsule](https://github.com/tobiaskocur/capsule): Linux process sandbox in Rust
-- [custom_shell](https://github.com/tobiaskocur/custom_shell): shell in C++
+On the side I run [Noily](https://noily.eu), a Slovak AI news site, and build automations to help people use AI better.
 
-Open to internships and research collaborations. Applying to universities in 2026.
+Earlier: systems and security side projects, e.g. [aegis](https://github.com/tobiaskocur/aegis) and [capsule](https://github.com/tobiaskocur/capsule).
 
-[Email](mailto:crybybusiness@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tobias-kocúr-3b18b63b5)
+[LinkedIn](https://www.linkedin.com/in/tobias-kocúr-3b18b63b5)

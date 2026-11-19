@@ -4,23 +4,23 @@ Most of my day is telling AI agents to try again and telling people the test nee
 
 CRO specialist, doing delivery at [UNIT618](https://unit618.com). On the side I work on [Noily](https://noily.eu) and on automations that help people use AI better. I write at [tobiaskocur.com](https://tobiaskocur.com/blog/).
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
-### Recent work
-<!-- recent_work starts -->
-[pi-learning](https://github.com/tobiaskocur/pi-learning) - 2026-10-05
+### Recent releases
+<!-- recent_releases starts -->
+[pi-learning](https://github.com/tobiaskocur/pi-learning) - 2026-10-05<br>Prediction-first AI tutor profile for Pi and BB: probes, prerequisite maps, verified visuals, and transfer checks.
 
-[capsule](https://github.com/tobiaskocur/capsule) - 2026-05-12
+[capsule](https://github.com/tobiaskocur/capsule) - 2026-05-12<br>A lightweight Linux process sandbox written in Rust
 
 [passwordgenerator](https://github.com/tobiaskocur/passwordgenerator) - 2026-05-03
 
-[custom\_shell](https://github.com/tobiaskocur/custom_shell) - 2026-02-06
+[custom\_shell](https://github.com/tobiaskocur/custom_shell) - 2026-02-06<br>A custom shell enviroment made in C\+\+
 
-[ram\_vs\_disk\_benchmark](https://github.com/tobiaskocur/ram_vs_disk_benchmark) - 2026-02-05
-<!-- recent_work ends -->
+[ram\_vs\_disk\_benchmark](https://github.com/tobiaskocur/ram_vs_disk_benchmark) - 2026-02-05<br>A C\+\+ benchmark comparing sequential disk I/O performance against in-memory operations.
+<!-- recent_releases ends -->
 
 More [repositories](https://github.com/tobiaskocur?tab=repositories)
-</td><td valign="top" width="34%">
+</td><td valign="top" width="35%">
 
 ### On Noily
 <!-- noily starts -->
@@ -36,7 +36,7 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### On my blog
 <!-- blog starts -->

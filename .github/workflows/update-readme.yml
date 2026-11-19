@@ -24,6 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: Commit if changed
+        if: ${{ !cancelled() }}
         run: |
           if git diff --quiet -- README.md; then
             echo "No change."

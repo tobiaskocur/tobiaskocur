@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif">
+<rect x="1" y="1" width="638" height="278" rx="16" fill="#ffffff" stroke="#d8dee9" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="278" rx="4" fill="#2f6dcc"/>
+<rect x="32" y="32" width="84" height="84" rx="28" fill="#2f6dcc"/>
+<circle cx="60" cy="72" r="6" fill="#fff"/><circle cx="88" cy="72" r="6" fill="#fff"/>
+<path d="M62 92 Q74 98 86 92" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="148" y="60" font-size="13" fill="#6b7280" letter-spacing="1">TENTO PR SKONTROLOVAL</text>
+<text x="148" y="90" font-size="26" font-weight="700" fill="#1f2937">Software Reviewer</text>
+<text x="148" y="112" font-size="14" fill="#6b7280">Nezávislé code review správnosti, rizík a jednoduchosti</text>
+<rect x="500" y="36" width="108" height="34" rx="17" fill="#e6f4ea"/><text x="554" y="59" font-size="16" font-weight="700" fill="#1e7e34" text-anchor="middle">✓ PASS</text>
+<line x1="32" y1="142" x2="608" y2="142" stroke="#e5e7eb"/>
+<text x="32" y="168" font-size="13" fill="#6b7280">commit <tspan font-family="monospace" fill="#1f2937">5d59de2</tspan>  ·  2026-11-19</text>
+<text x="32" y="194" font-size="15" fill="#3b4252">Skontrolované: Workflow and script safe: empty top-level </text><text x="32" y="216" font-size="15" fill="#3b4252">permissions, contents:write only on job, checkout pinned to </text><text x="32" y="238" font-size="15" fill="#3b4252">full SHA (= v7.0.1), no secrets beyond GITHUB_TOKEN, no shell </text><text x="32" y="260" font-size="15" fill="#3b4252">interpolation of feed data, entity b</text>
+</svg>

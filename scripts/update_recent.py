@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 FEED = "https://noily.eu/rss/"
 README = "README.md"
 LIMIT = 5
+LINK = re.compile(r"https://noily\.eu/[\w./%~-]*")
 START, END = "<!-- recent:start -->", "<!-- recent:end -->"
 
 
@@ -29,7 +30,7 @@ def posts(xml):
     for it in ET.fromstring(xml).iterfind("./channel/item"):
         title = (it.findtext("title") or "").strip()
         link = (it.findtext("link") or "").strip()
-        if title and link.startswith("https://noily.eu/"):
+        if title and "@" not in title and LINK.fullmatch(link):
             items.append((title, link))
         if len(items) == LIMIT:
             break
@@ -40,7 +41,7 @@ def main():
     items = posts(fetch(FEED))
     if not items:
         sys.exit("feed has no usable items; README left unchanged")
-    block = "\n".join(f"- [{md_text(t)}]({l.replace(' ', '%20').replace(')', '%29')})" for t, l in items)
+    block = "\n".join(f"- [{md_text(t)}]({l})" for t, l in items)
     text = open(README, encoding="utf-8").read()
     pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.S)
     if not pattern.search(text):

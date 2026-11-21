@@ -22,15 +22,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
-[Anthropic uzavrel IPO: z akcií získal približne 93,5 miliardy dolárov](https://noily.eu/anthropic-uzavrel-ipo-z-akcii-ziskal-priblizne-93-5-miliardy/) - 2026-11-20
+[Fundación Televisa viedla pohovory s uchádzačmi cez hlasového agenta ElevenAgents](https://noily.eu/fundacion-televisa-viedla-pohovory-s-uchadzacmi-cez/) - 2026-11-21
 
-[FFmpeg 9.1 Gauss je vonku, archívy majú aj post-kvantové podpisy](https://noily.eu/ffmpeg-9-1-gauss-je-vonku-archivy-maju-aj-post-kvantove/) - 2026-11-20
+[Gemini prepisuje hasičské rádio na text: Watch Duty zachytí nový požiar do 30 sekúnd](https://noily.eu/gemini-prepisuje-hasicske-radio-na-text-watch-duty-zachyti/) - 2026-11-21
 
-[PostgreSQL 19 prináša REPACK a pg\_plan\_advice, vypína JIT a ruší RADIUS](https://noily.eu/postgresql-19-prinasa-repack-a-pg-plan-advice-vypina-jit-a/) - 2026-11-20
+[ElevenLabs: ako opraviť zlú výslovnosť TTS a chyby API](https://noily.eu/elevenlabs-ako-opravit-zlu-vyslovnost-tts-a-chyby-api/) - 2026-11-21
 
-[ViExtract-EC: malý vietnamský model vyplní JSON rámec z chatu](https://noily.eu/viextract-ec-maly-vietnamsky-model-vyplni-json-ramec-z-chatu/) - 2026-11-20
+[NestJS vydal oficiálne Agent Skills pre kódovacích agentov](https://noily.eu/nestjs-vydal-oficialne-agent-skills-pre-kodovacich-agentov/) - 2026-11-21
 
-[DeepSeek V3 v 190 riadkoch čistého JAX trénovaný na MacBooku Air](https://noily.eu/deepseek-v3-v-190-riadkoch-cisteho-jax-trenovany-na-macbooku-air/) - 2026-11-20
+[Hebbia: GPT-6 Astra v jeho testoch predbehol alternatívy v citovaní zdrojov](https://noily.eu/hebbia-gpt-6-astra-v-jeho-testoch-predbehol-alternativy-v/) - 2026-11-20
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

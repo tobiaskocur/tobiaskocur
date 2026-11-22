@@ -22,15 +22,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
+[Graham Dumpleton buduje Muru, nový Rust server pre Python aplikácie s pomocou AI](https://noily.eu/graham-dumpleton-buduje-muru-novy-rust-server-pre-python/) - 2026-11-22
+
+[Armin Ronacher: agent s plnými oprávneniami, logy a obyčajný kód](https://noily.eu/armin-ronacher-agent-s-plnymi-opravneniami-logy-a-obycajny/) - 2026-11-22
+
 [Fundación Televisa viedla pohovory s uchádzačmi cez hlasového agenta ElevenAgents](https://noily.eu/fundacion-televisa-viedla-pohovory-s-uchadzacmi-cez/) - 2026-11-21
 
 [Gemini prepisuje hasičské rádio na text: Watch Duty zachytí nový požiar do 30 sekúnd](https://noily.eu/gemini-prepisuje-hasicske-radio-na-text-watch-duty-zachyti/) - 2026-11-21
 
 [ElevenLabs: ako opraviť zlú výslovnosť TTS a chyby API](https://noily.eu/elevenlabs-ako-opravit-zlu-vyslovnost-tts-a-chyby-api/) - 2026-11-21
-
-[NestJS vydal oficiálne Agent Skills pre kódovacích agentov](https://noily.eu/nestjs-vydal-oficialne-agent-skills-pre-kodovacich-agentov/) - 2026-11-21
-
-[Hebbia: GPT-6 Astra v jeho testoch predbehol alternatívy v citovaní zdrojov](https://noily.eu/hebbia-gpt-6-astra-v-jeho-testoch-predbehol-alternativy-v/) - 2026-11-20
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

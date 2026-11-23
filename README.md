@@ -22,15 +22,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
+[Vercel AI Gateway vie smerovať požiadavky podľa krajiny sídla poskytovateľa](https://noily.eu/vercel-ai-gateway-vie-smerovat-poziadavky-podla-krajiny/) - 2026-11-23
+
+[unslop-ui odstráni z textov rozhraní typické stopy AI agentov](https://noily.eu/unslop-ui-odstrani-z-textov-rozhrani-typicke-stopy-ai-agentov/) - 2026-11-23
+
+[OpenAI zverejnilo perplexity svojich modelov a navrhuje ju ako spoločnú metriku](https://noily.eu/openai-zverejnilo-perplexity-svojich-modelov-a-navrhuje-ju/) - 2026-11-22
+
 [Graham Dumpleton buduje Muru, nový Rust server pre Python aplikácie s pomocou AI](https://noily.eu/graham-dumpleton-buduje-muru-novy-rust-server-pre-python/) - 2026-11-22
 
 [Armin Ronacher: agent s plnými oprávneniami, logy a obyčajný kód](https://noily.eu/armin-ronacher-agent-s-plnymi-opravneniami-logy-a-obycajny/) - 2026-11-22
-
-[Fundación Televisa viedla pohovory s uchádzačmi cez hlasového agenta ElevenAgents](https://noily.eu/fundacion-televisa-viedla-pohovory-s-uchadzacmi-cez/) - 2026-11-21
-
-[Gemini prepisuje hasičské rádio na text: Watch Duty zachytí nový požiar do 30 sekúnd](https://noily.eu/gemini-prepisuje-hasicske-radio-na-text-watch-duty-zachyti/) - 2026-11-21
-
-[ElevenLabs: ako opraviť zlú výslovnosť TTS a chyby API](https://noily.eu/elevenlabs-ako-opravit-zlu-vyslovnost-tts-a-chyby-api/) - 2026-11-21
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

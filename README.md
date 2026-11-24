@@ -6,15 +6,7 @@ CRO specialist, doing delivery at [UNIT618](https://unit618.com). On the side I 
 
 ### Open source
 <!-- recent_releases starts -->
-[pi-learning](https://github.com/tobiaskocur/pi-learning) - 2026-10-05<br>Prediction-first AI tutor profile for Pi and BB: probes, prerequisite maps, verified visuals, and transfer checks.
-
-[capsule](https://github.com/tobiaskocur/capsule) - 2026-05-12<br>A lightweight Linux process sandbox written in Rust
-
-[passwordgenerator](https://github.com/tobiaskocur/passwordgenerator) - 2026-05-03
-
-[custom\_shell](https://github.com/tobiaskocur/custom_shell) - 2026-02-06<br>A custom shell enviroment made in C\+\+
-
-[ram\_vs\_disk\_benchmark](https://github.com/tobiaskocur/ram_vs_disk_benchmark) - 2026-02-05<br>A C\+\+ benchmark comparing sequential disk I/O performance against in-memory operations.
+[pokey v0.1.0](https://github.com/tobiaskocur/pokey/releases/tag/v0.1.0) - 2026-11-24
 <!-- recent_releases ends -->
 
 More [repositories](https://github.com/tobiaskocur?tab=repositories)
@@ -22,15 +14,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
-[Vercel AI Gateway vie smerovať požiadavky podľa krajiny sídla poskytovateľa](https://noily.eu/vercel-ai-gateway-vie-smerovat-poziadavky-podla-krajiny/) - 2026-11-23
+[Hashimoto vyvinul funkciu Ghostty s AI agentom, no kód po ňom čistí sám](https://noily.eu/hashimoto-vyvinul-funkciu-ghostty-s-ai-agentom-no-kod-po-nom/) - 2026-11-24
 
-[unslop-ui odstráni z textov rozhraní typické stopy AI agentov](https://noily.eu/unslop-ui-odstrani-z-textov-rozhrani-typicke-stopy-ai-agentov/) - 2026-11-23
+[Supabase spustil Knowledge Base: migračné návody a riešenie chýb aj pre agentov](https://noily.eu/supabase-spustil-knowledge-base-migracne-navody-a-riesenie/) - 2026-11-23
 
-[OpenAI zverejnilo perplexity svojich modelov a navrhuje ju ako spoločnú metriku](https://noily.eu/openai-zverejnilo-perplexity-svojich-modelov-a-navrhuje-ju/) - 2026-11-22
+[Ladybird vydal prvú alfu: prehliadač si už nainštalujete bez kompilácie](https://noily.eu/ladybird-vydal-prvu-alfu-prehliadac-si-uz-nainstalujete-bez/) - 2026-11-23
 
-[Graham Dumpleton buduje Muru, nový Rust server pre Python aplikácie s pomocou AI](https://noily.eu/graham-dumpleton-buduje-muru-novy-rust-server-pre-python/) - 2026-11-22
+[Richpanel garantuje 50 % automatizácie podpory do 30 dní, inak vráti peniaze](https://noily.eu/richpanel-garantuje-50-automatizacie-podpory-do-30-dni-inak/) - 2026-11-23
 
-[Armin Ronacher: agent s plnými oprávneniami, logy a obyčajný kód](https://noily.eu/armin-ronacher-agent-s-plnymi-opravneniami-logy-a-obycajny/) - 2026-11-22
+[GitHub pridal stavy issues a boardy v repozitároch, agenti ich vedia meniť](https://noily.eu/github-pridal-stavy-issues-a-boardy-v-repozitaroch-agenti/) - 2026-11-23
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

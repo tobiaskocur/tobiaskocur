@@ -14,6 +14,8 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
+[Claude má dôkaz VP ≠ VNP nad každým poľom, nik z matematikov ho nekontroloval](https://noily.eu/claude-ma-dokaz-vp-vnp-nad-kazdym-polom-nik-z-matematikov-ho/) - 2026-11-24
+
 [Hashimoto vyvinul funkciu Ghostty s AI agentom, no kód po ňom čistí sám](https://noily.eu/hashimoto-vyvinul-funkciu-ghostty-s-ai-agentom-no-kod-po-nom/) - 2026-11-24
 
 [Supabase spustil Knowledge Base: migračné návody a riešenie chýb aj pre agentov](https://noily.eu/supabase-spustil-knowledge-base-migracne-navody-a-riesenie/) - 2026-11-23
@@ -21,8 +23,6 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 [Ladybird vydal prvú alfu: prehliadač si už nainštalujete bez kompilácie](https://noily.eu/ladybird-vydal-prvu-alfu-prehliadac-si-uz-nainstalujete-bez/) - 2026-11-23
 
 [Richpanel garantuje 50 % automatizácie podpory do 30 dní, inak vráti peniaze](https://noily.eu/richpanel-garantuje-50-automatizacie-podpory-do-30-dni-inak/) - 2026-11-23
-
-[GitHub pridal stavy issues a boardy v repozitároch, agenti ich vedia meniť](https://noily.eu/github-pridal-stavy-issues-a-boardy-v-repozitaroch-agenti/) - 2026-11-23
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

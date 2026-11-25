@@ -14,15 +14,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
-[Claude má dôkaz VP ≠ VNP nad každým poľom, nik z matematikov ho nekontroloval](https://noily.eu/claude-ma-dokaz-vp-vnp-nad-kazdym-polom-nik-z-matematikov-ho/) - 2026-11-24
+[OpenAI: modely GPT-6 navrhli proteíny iba úvahou a kódom, bez špecializovaných modelov](https://noily.eu/openai-modely-gpt-6-navrhli-proteiny-iba-uvahou-a-kodom-bez/) - 2026-11-25
 
-[Hashimoto vyvinul funkciu Ghostty s AI agentom, no kód po ňom čistí sám](https://noily.eu/hashimoto-vyvinul-funkciu-ghostty-s-ai-agentom-no-kod-po-nom/) - 2026-11-24
+[Harper Reed: najprv spec, potom plán, až potom kód od LLM v krátkych slučkách](https://noily.eu/harper-reed-najprv-spec-potom-plan-az-potom-kod-od-llm-v/) - 2026-11-25
 
-[Supabase spustil Knowledge Base: migračné návody a riešenie chýb aj pre agentov](https://noily.eu/supabase-spustil-knowledge-base-migracne-navody-a-riesenie/) - 2026-11-23
+[Gemini 4 Neon: Google ukázal 5 projektov a cesty, ako model získať](https://noily.eu/gemini-4-neon-google-ukazal-5-projektov-a-cesty-ako-model/) - 2026-11-24
 
-[Ladybird vydal prvú alfu: prehliadač si už nainštalujete bez kompilácie](https://noily.eu/ladybird-vydal-prvu-alfu-prehliadac-si-uz-nainstalujete-bez/) - 2026-11-23
+[Google Gemini sa stáva oficiálnym AI asistentom klubu Golden State Warriors](https://noily.eu/google-gemini-sa-stava-oficialnym-ai-asistentom-klubu-golden/) - 2026-11-24
 
-[Richpanel garantuje 50 % automatizácie podpory do 30 dní, inak vráti peniaze](https://noily.eu/richpanel-garantuje-50-automatizacie-podpory-do-30-dni-inak/) - 2026-11-23
+[Datasette má plugin na grafy, ktorý počíta zo všetkých riadkov, nielen zo 100](https://noily.eu/datasette-ma-plugin-na-grafy-ktory-pocita-zo-vsetkych/) - 2026-11-24
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

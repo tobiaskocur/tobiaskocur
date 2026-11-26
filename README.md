@@ -14,15 +14,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
-[OpenAI: modely GPT-6 navrhli proteíny iba úvahou a kódom, bez špecializovaných modelov](https://noily.eu/openai-modely-gpt-6-navrhli-proteiny-iba-uvahou-a-kodom-bez/) - 2026-11-25
+[Together AI naučilo Qwen3.8-27B písať po laosky na 93 % skóre učiteľa](https://noily.eu/together-ai-naucilo-qwen3-8-27b-pisat-po-laosky-na-93-skore/) - 2026-11-26
 
-[Harper Reed: najprv spec, potom plán, až potom kód od LLM v krátkych slučkách](https://noily.eu/harper-reed-najprv-spec-potom-plan-az-potom-kod-od-llm-v/) - 2026-11-25
+[Bezplatný skill vytvorí návod na rozhovor s používateľmi v Claude Code, Codexe aj Cursore](https://noily.eu/bezplatny-skill-vytvori-navod-na-rozhovor-s-pouzivatelmi-v-claude-code-codexe-aj-cursore/) - 2026-11-26
 
-[Gemini 4 Neon: Google ukázal 5 projektov a cesty, ako model získať](https://noily.eu/gemini-4-neon-google-ukazal-5-projektov-a-cesty-ako-model/) - 2026-11-24
+[Geoffrey Huntley riadi AI agenta slučkou, kompilátorom a špecifikáciami](https://noily.eu/geoffrey-huntley-riadi-ai-agenta-sluckou-kompilatorom-a/) - 2026-11-26
 
-[Google Gemini sa stáva oficiálnym AI asistentom klubu Golden State Warriors](https://noily.eu/google-gemini-sa-stava-oficialnym-ai-asistentom-klubu-golden/) - 2026-11-24
+[ElevenAgents znížili medián latencie RAG z 326 ms na 155 ms](https://noily.eu/elevenagents-znizili-median-latencie-rag-z-326-ms-na-155-ms/) - 2026-11-25
 
-[Datasette má plugin na grafy, ktorý počíta zo všetkých riadkov, nielen zo 100](https://noily.eu/datasette-ma-plugin-na-grafy-ktory-pocita-zo-vsetkych/) - 2026-11-24
+[Copilot code review sa od 30. decembra 2026 predvolene účtuje organizácii](https://noily.eu/copilot-code-review-sa-od-30-decembra-2026-predvolene-uctuje/) - 2026-11-25
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

@@ -14,15 +14,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
-[Together AI naučilo Qwen3.8-27B písať po laosky na 93 % skóre učiteľa](https://noily.eu/together-ai-naucilo-qwen3-8-27b-pisat-po-laosky-na-93-skore/) - 2026-11-26
+[20TB WD EasyStore stojí 549,99 $, v roku 2024 stál 249,99 $](https://noily.eu/20tb-wd-easystore-stoji-549-99-v-roku-2024-stal-249-99/) - 2026-11-27
 
-[Bezplatný skill vytvorí návod na rozhovor s používateľmi v Claude Code, Codexe aj Cursore](https://noily.eu/bezplatny-skill-vytvori-navod-na-rozhovor-s-pouzivatelmi-v-claude-code-codexe-aj-cursore/) - 2026-11-26
+[OpenGame pridáva do lokálnych agentov 25 hrateľných šablón hier](https://noily.eu/opengame-pridava-do-lokalnych-agentov-25-hratelnych-sablon-hier/) - 2026-11-27
 
-[Geoffrey Huntley riadi AI agenta slučkou, kompilátorom a špecifikáciami](https://noily.eu/geoffrey-huntley-riadi-ai-agenta-sluckou-kompilatorom-a/) - 2026-11-26
+[Ako pracuje Thomas Ptacek: agent v editore, kód číta riadok po riadku](https://noily.eu/ako-pracuje-thomas-ptacek-agent-v-editore-kod-cita-riadok-po/) - 2026-11-27
 
-[ElevenAgents znížili medián latencie RAG z 326 ms na 155 ms](https://noily.eu/elevenagents-znizili-median-latencie-rag-z-326-ms-na-155-ms/) - 2026-11-25
+[ElevenLabs Scribe v3: o 27 % menej chýb ako Scribe v2 vo FLEURS](https://noily.eu/elevenlabs-scribe-v3-o-27-menej-chyb-ako-scribe-v2-vo-fleurs/) - 2026-11-26
 
-[Copilot code review sa od 30. decembra 2026 predvolene účtuje organizácii](https://noily.eu/copilot-code-review-sa-od-30-decembra-2026-predvolene-uctuje/) - 2026-11-25
+[Generovanie testov cez AI: ako ich v n8n overiť a spustiť v CI](https://noily.eu/generovanie-testov-cez-ai-ako-ich-v-n8n-overit-a-spustit-v/) - 2026-11-26
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)

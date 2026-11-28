@@ -14,15 +14,15 @@ More [repositories](https://github.com/tobiaskocur?tab=repositories)
 
 ### On Noily
 <!-- noily starts -->
-[20TB WD EasyStore stojí 549,99 $, v roku 2024 stál 249,99 $](https://noily.eu/20tb-wd-easystore-stoji-549-99-v-roku-2024-stal-249-99/) - 2026-11-27
+[Plugin Phone Connector dá Claude Code vlastný Android telefón s Play Store](https://noily.eu/plugin-phone-connector-da-claude-code-vlastny-android-telefon-s-play-store/) - 2026-11-28
 
-[OpenGame pridáva do lokálnych agentov 25 hrateľných šablón hier](https://noily.eu/opengame-pridava-do-lokalnych-agentov-25-hratelnych-sablon-hier/) - 2026-11-27
+[Google: DeepCrossAttention dosiahne rovnakú kvalitu s menej vrstvami](https://noily.eu/google-deepcrossattention-dosiahne-rovnaku-kvalitu-s-menej/) - 2026-11-28
 
-[Ako pracuje Thomas Ptacek: agent v editore, kód číta riadok po riadku](https://noily.eu/ako-pracuje-thomas-ptacek-agent-v-editore-kod-cita-riadok-po/) - 2026-11-27
+[Plugin datasette-charts uľahčuje písanie ďalších typov grafov](https://noily.eu/plugin-datasette-charts-ulahcuje-pisanie-dalsich-typov/) - 2026-11-28
 
-[ElevenLabs Scribe v3: o 27 % menej chýb ako Scribe v2 vo FLEURS](https://noily.eu/elevenlabs-scribe-v3-o-27-menej-chyb-ako-scribe-v2-vo-fleurs/) - 2026-11-26
+[Antirez programuje s LLM ručne a kód prenáša z terminálu do webu](https://noily.eu/antirez-programuje-s-llm-rucne-a-kod-prenasa-z-terminalu-do/) - 2026-11-28
 
-[Generovanie testov cez AI: ako ich v n8n overiť a spustiť v CI](https://noily.eu/generovanie-testov-cez-ai-ako-ich-v-n8n-overit-a-spustit-v/) - 2026-11-26
+[ElevenAgents podporuje MCP ako server aj klient, A2A nepoužíva](https://noily.eu/elevenagents-podporuje-mcp-ako-server-aj-klient-a2a/) - 2026-11-27
 <!-- noily ends -->
 
 More on [noily.eu](https://noily.eu)
